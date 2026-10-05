@@ -1,0 +1,28 @@
+﻿# 编译产物
+*.dll
+*.exe
+*.pdb
+
+# 游戏 / mod 二进制（绝不入库）
+Assembly-CSharp*.dll
+UnityEngine*.dll
+Mono*.dll
+*.orig
+*.bak
+*.bak-*
+
+# 运行期产物
+typebridge*.log
+*.log
+fp16.tsv
+fp17.tsv
+fp23.tsv
+match_result.tsv
+type_pairs.tsv
+consensus_mapping.tsv
+final_mapping.tsv
+graph_mapping*.tsv
+JUNK_pairings.tsv
+ZERO_evidence.tsv
+tmp/
+out/

@@ -1,0 +1,14 @@
+kind	obfType	obfMember	realType	realMember	conf	basis	flags
+method	SFS.Input.TIYTCMPPXTMLAOUH+Key	EOMHKCEEPMF	SFS.Input.KeybindingsPC+Key	op_Implicit	1.00	manual	SP
+method	SFS.Input.TIYTCMPPXTMLAOUH+Key	HNECCGLPHLO	SFS.Input.KeybindingsPC+Key	op_Explicit	1.00	manual	SP
+method	SFS.World.Trajectory	EGPEAHHPPHO	SFS.World.Trajectory	CheckPathTransition	0.90	manual-signature	IP
+method	SFS.Parts.Modules.DockingPortModule	HMEGPCABDAG	SFS.Parts.Modules.DockingPortModule	Dock	0.90	manual-signature	IP
+method	KBNNHJKKEPB	NHCKKFLDGGC	ModLoader.Mod	get_ModNameID	1.00	manual-prop-order	P
+method	KBNNHJKKEPB	OJPJLPELMAP	ModLoader.Mod	get_DisplayName	1.00	manual-prop-order	P
+method	KBNNHJKKEPB	JDIKMGBCPMD	ModLoader.Mod	get_Author	1.00	manual-prop-order	P
+method	KBNNHJKKEPB	CJCINDFGCAD	ModLoader.Mod	get_ModVersion	1.00	manual-prop-order	P
+method	KBNNHJKKEPB	AJAJFDOJJHP	ModLoader.Mod	get_Description	1.00	manual-prop-order	P
+method	CBHCIGBCDDL	PDPALMFFDFA	I_GLDrawer	Draw	1.00	manual-impl-evidence	P
+field	NPCKLPNGDON	NEMJIBGJJJG	SFS.UI.ModGUI.Button	_button	1.00	manual-fieldref	P
+field	NPCKLPNGDON	BCLEBPIKMJE	SFS.UI.ModGUI.Button	_textAdapter	1.00	manual-fieldref	P
+field	NPCKLPNGDON	BDHHFOEIEOL	SFS.UI.ModGUI.Button	_onClick	1.00	manual-fieldref	P
